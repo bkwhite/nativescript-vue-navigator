@@ -1,0 +1,6 @@
+{
+    "navigator": {
+        "type": "object",
+        "description": "nativescript-vue-navigator"
+    }
+}

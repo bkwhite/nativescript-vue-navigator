@@ -18,6 +18,9 @@
     "navigator",
     "navigation"
   ],
-  "author": "Igor Randjelovic",
-  "license": "MIT"
+  "author": "Igor Randjelovic & B'ley White",
+  "license": "MIT",
+  "vetur": {
+    "attributes": "./vetur.attributes.json"
+  }
 }
