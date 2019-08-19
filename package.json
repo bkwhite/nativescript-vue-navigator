@@ -21,6 +21,7 @@
   "author": "Igor Randjelovic & B'ley White",
   "license": "MIT",
   "dependencies": {
+    "nativescript-vue": "^2.4.0",
     "vue": "^2.6.10"
   }
 }
